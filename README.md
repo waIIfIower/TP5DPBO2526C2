@@ -19,8 +19,8 @@ terus itu tabel template blom diuba jadi kaya yang di form maaf.
 # Dokumentasi
 
 ini query tabel aku buatnya ga diterminal ini di phpmyadmin<br>
-![QueryTabel](Dokumentasi/QueryTabel.png)<br>
+![QueryTabel](Dokumentasi/QueryTable.heic)<br>
 ini data awal yang tadi aku bilang, aku input ke db<br>
-![DataAwal](Dokumentasi/DataAwal.png)<br>
+![DataAwal](Dokumentasi/DataAwal.heic)<br>
 ini smua dokumentasi di youtube<br>
-[KLIK INI VIDEONYA]([https://youtube.com](https://youtu.be/_fCN1exA_1c?si=qWaXsg5R61i5_U7J))
+https://youtu.be/_fCN1exA_1c?si=qWaXsg5R61i5_U7J](https://youtu.be/_fCN1exA_1c?si=AVhwLzaIUE8oVGSd
